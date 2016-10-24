@@ -1,0 +1,10 @@
+a.py[LINE:10]# DEBUG    [2016-10-22 12:12:27,986]  This is a debug message
+a.py[LINE:12]# INFO     [2016-10-22 12:12:27,986]  This is an info message
+a.py[LINE:14]# WARNING  [2016-10-22 12:12:27,986]  This is a warning
+a.py[LINE:16]# ERROR    [2016-10-22 12:12:27,986]  This is an error message
+a.py[LINE:18]# CRITICAL [2016-10-22 12:12:27,986]  FATAL!!!
+a.py[LINE:14]# DEBUG    [2016-10-22 12:16:35,026]  This is a debug message
+a.py[LINE:16]# INFO     [2016-10-22 12:16:35,026]  This is an info message
+a.py[LINE:18]# WARNING  [2016-10-22 12:16:35,026]  This is a warning
+a.py[LINE:20]# ERROR    [2016-10-22 12:16:35,026]  This is an error message
+a.py[LINE:22]# CRITICAL [2016-10-22 12:16:35,026]  FATAL!!!
